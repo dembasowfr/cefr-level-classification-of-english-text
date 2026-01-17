@@ -2,3 +2,5 @@ flan-t5-cefr-lora
 flan-t5-cefr-lora-advanced-feature-injection
 flan-t5-cefr-lora-feature-injection
 flan-t5-cefr-ordinal-lora
+src/__pycache__/data_loader.cpython-312.pyc
+src/__pycache__/prompt_manager.cpython-312.pyc
