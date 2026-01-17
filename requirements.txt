@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+peft
+evaluate
+scikit-learn
+pandas
+kagglehub
+matplotlib
+seaborn
+accelerate
+bitsandbytes
+jupyterlab
+ipywidgets
+textstats
+spacy
