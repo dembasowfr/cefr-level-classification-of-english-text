@@ -1,3 +1,3 @@
-check `final-project-report.pdf` for the final report.
+PLEASE CHECK `final-project-report.pdf` FOR DETAILED REPORT PRESENTATION ABOUT THE PROJECT
 
 
